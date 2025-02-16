@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    padding: 40px;
+    max-width: 800px;
+    padding-bottom: 0;
+
+}
+
+h1 {
+    font-weight: 450;
+    padding: 10px;
+    width: 100%;
+    border-top: 2px solid black
+}
+
+.sub-headings {
+    color: #0BDA51;
+    padding: 10px;
+    width: 100%;
+}
+
+.some-text {
+    font-size: 0.95rem;
+    padding: 10px;
+    padding-top: 0;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.some-text ul {
+    padding-left: 20px;
+}
+
+.other-details{
+    color: dodgerblue;
+    padding: 10px
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-p{
+    font-size: 1.15rem;
+    color: #0BDA51;
+    padding: 10px;
+}
+
+.social-links i{
+    color: black;
+    font-size: 1.25rem;
+}
